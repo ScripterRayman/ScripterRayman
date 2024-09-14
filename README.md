@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ScripterRayman
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Game Development using Unreal Engine
-- 💞️ I’m looking to collaborate on ROBLOX
-- 📫 How to reach me (LATER)
-
-<!---
-ScripterRayman/ScripterRayman is a  special person with a BIG repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m The Nightingale
+- 👀 I’m interested in Programming in C++
+- 🌱 I’m currently making my own game engine called Neverbound
+- 💞️ I’m looking to make games Full Time
+- 📫 Those who to email me are reqested not ot do so because i dont check my emails.
